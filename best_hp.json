@@ -1,0 +1,16 @@
+{
+  "params": {
+    "lr": 0.019486991655375763,
+    "hidden": 48,
+    "seq_len": 512,
+    "pre_emph": 0.7356070946600158,
+    "weight_decay": 2.9696608825156744e-06
+  },
+  "search_esr": 0.1159394234418869,
+  "n_trials": 25,
+  "fixed": {
+    "sr": 44100,
+    "batch_size": 32,
+    "layers": 1
+  }
+}
